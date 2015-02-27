@@ -10,5 +10,8 @@ public class Prueba {
 		return a*b;
 	}
 	
+	public int División() {
+		return a/b;
+	}
 
 }
